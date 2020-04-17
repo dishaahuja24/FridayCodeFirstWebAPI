@@ -1,0 +1,14 @@
+C:\Users\Ahuja\source\repos\WebAPICodeFirstApproach\WebAPICodeFirstApproach\bin\Debug\netcoreapp2.1\WebAPICodeFirstApproach.deps.json
+C:\Users\Ahuja\source\repos\WebAPICodeFirstApproach\WebAPICodeFirstApproach\bin\Debug\netcoreapp2.1\WebAPICodeFirstApproach.runtimeconfig.json
+C:\Users\Ahuja\source\repos\WebAPICodeFirstApproach\WebAPICodeFirstApproach\bin\Debug\netcoreapp2.1\WebAPICodeFirstApproach.runtimeconfig.dev.json
+C:\Users\Ahuja\source\repos\WebAPICodeFirstApproach\WebAPICodeFirstApproach\bin\Debug\netcoreapp2.1\WebAPICodeFirstApproach.dll
+C:\Users\Ahuja\source\repos\WebAPICodeFirstApproach\WebAPICodeFirstApproach\bin\Debug\netcoreapp2.1\WebAPICodeFirstApproach.pdb
+C:\Users\Ahuja\source\repos\WebAPICodeFirstApproach\WebAPICodeFirstApproach\obj\Debug\netcoreapp2.1\WebAPICodeFirstApproach.csprojAssemblyReference.cache
+C:\Users\Ahuja\source\repos\WebAPICodeFirstApproach\WebAPICodeFirstApproach\obj\Debug\netcoreapp2.1\WebAPICodeFirstApproach.csproj.CoreCompileInputs.cache
+C:\Users\Ahuja\source\repos\WebAPICodeFirstApproach\WebAPICodeFirstApproach\obj\Debug\netcoreapp2.1\WebAPICodeFirstApproach.RazorAssemblyInfo.cache
+C:\Users\Ahuja\source\repos\WebAPICodeFirstApproach\WebAPICodeFirstApproach\obj\Debug\netcoreapp2.1\WebAPICodeFirstApproach.RazorAssemblyInfo.cs
+C:\Users\Ahuja\source\repos\WebAPICodeFirstApproach\WebAPICodeFirstApproach\obj\Debug\netcoreapp2.1\WebAPICodeFirstApproach.AssemblyInfoInputs.cache
+C:\Users\Ahuja\source\repos\WebAPICodeFirstApproach\WebAPICodeFirstApproach\obj\Debug\netcoreapp2.1\WebAPICodeFirstApproach.AssemblyInfo.cs
+C:\Users\Ahuja\source\repos\WebAPICodeFirstApproach\WebAPICodeFirstApproach\obj\Debug\netcoreapp2.1\WebAPICodeFirstApproach.RazorTargetAssemblyInfo.cache
+C:\Users\Ahuja\source\repos\WebAPICodeFirstApproach\WebAPICodeFirstApproach\obj\Debug\netcoreapp2.1\WebAPICodeFirstApproach.dll
+C:\Users\Ahuja\source\repos\WebAPICodeFirstApproach\WebAPICodeFirstApproach\obj\Debug\netcoreapp2.1\WebAPICodeFirstApproach.pdb
